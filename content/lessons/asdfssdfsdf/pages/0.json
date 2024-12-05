@@ -2,6 +2,11 @@
   "id": "asdfssdfsdf",
   "content": [
     {
+      "id": "block0",
+      "type": "image",
+      "content": "https://picsum.photos/800/450"
+    },
+    {
       "id": "block1",
       "type": "text",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -18,8 +23,8 @@
     },
     {
       "id": "block4",
-      "type": "text",
-      "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      "type": "image",
+      "content": "https://picsum.photos/800/450"
     },
     {
       "id": "block5",

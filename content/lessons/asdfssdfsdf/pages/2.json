@@ -9,13 +9,13 @@
     },
     {
       "id": "block12",
-      "type": "text",
-      "content": "Etiam porta sem malesuada magna mollis euismod."
+      "type": "image",
+      "content": "https://picsum.photos/800/450"
     },
     {
       "id": "block13",
-      "type": "text",
-      "content": "Donec ullamcorper nulla non metus auctor fringilla."
+      "type": "image",
+      "content": "https://picsum.photos/800/450"
     },
     {
       "id": "block14",
@@ -24,9 +24,9 @@
     },
     {
       "id": "block15",
-      "type": "text",
-      "content": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
-    }
+      "type": "image",
+      "content": "https://picsum.photos/800/450"
+    },
   ],
   "lastEdited": "2023-10-05T14:48:00Z",
   "createdAt": "2023-10-05T14:48:00Z",
