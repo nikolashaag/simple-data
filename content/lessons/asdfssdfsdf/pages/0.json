@@ -4,7 +4,7 @@
     {
       "id": "block0",
       "type": "image",
-      "content": "https://picsum.photos/800/450"
+      "content": "https://picsum.photos/id/0/800/450"
     },
     {
       "id": "block1",
@@ -24,7 +24,7 @@
     {
       "id": "block4",
       "type": "image",
-      "content": "https://picsum.photos/800/450"
+      "content": "https://picsum.photos/id/20/800/450"
     },
     {
       "id": "block5",

@@ -15,7 +15,7 @@
     {
       "id": "block8",
       "type": "image",
-      "content": "https://picsum.photos/800/450"
+      "content": "https://picsum.photos/id/26/800/450"
     },
     {
       "id": "block9",
@@ -25,8 +25,8 @@
     {
       "id": "block10",
       "type": "image",
-      "content": "https://picsum.photos/800/450"
-    },
+      "content": "https://picsum.photos/id/7/800/450"
+    }
   ],
   "lastEdited": "2023-10-05T14:48:00Z",
   "createdAt": "2023-10-05T14:48:00Z",
