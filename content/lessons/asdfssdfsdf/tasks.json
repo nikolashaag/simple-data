@@ -20,7 +20,7 @@
     ],
     "type": "multiple_choice",
     "question": "What is the capital of France?",
-    "correctAnswerIndex": "0"
+    "correctAnswerIndex": 0
   },
   {
     "id": "question2",
@@ -43,7 +43,7 @@
     ],
     "type": "multiple_choice",
     "question": "How many legs does an insect have?",
-    "correctAnswerIndex": "1"
+    "correctAnswerIndex": 1
   },
   {
     "id": "question3",
@@ -66,6 +66,6 @@
     ],
     "type": "multiple_choice",
     "question": "Which planet is known as the Red Planet?",
-    "correctAnswerIndex": "1"
+    "correctAnswerIndex": 1
   }
 ]

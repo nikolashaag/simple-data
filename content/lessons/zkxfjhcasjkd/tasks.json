@@ -20,7 +20,7 @@
     ],
     "type": "multiple_choice",
     "question": "Who wrote 'Romeo and Juliet'?",
-    "correctAnswerIndex": "0"
+    "correctAnswerIndex": 0
   },
   {
     "id": "question2",
@@ -43,7 +43,7 @@
     ],
     "type": "multiple_choice",
     "question": "Which of these is located in Peru?",
-    "correctAnswerIndex": "1"
+    "correctAnswerIndex": 1
   },
   {
     "id": "question3",
@@ -66,6 +66,6 @@
     ],
     "type": "multiple_choice",
     "question": "Who developed the theory of relativity?",
-    "correctAnswerIndex": "0"
+    "correctAnswerIndex": 0
   }
 ]

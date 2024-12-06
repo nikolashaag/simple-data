@@ -20,7 +20,7 @@
     ],
     "type": "multiple_choice",
     "question": "Who painted the Mona Lisa?",
-    "correctAnswerIndex": "0"
+    "correctAnswerIndex": 0
   },
   {
     "id": "question2",
@@ -43,7 +43,7 @@
     ],
     "type": "multiple_choice",
     "question": "How many wonders are there in the ancient world?",
-    "correctAnswerIndex": "0"
+    "correctAnswerIndex": 0
   },
   {
     "id": "question3",
@@ -66,6 +66,6 @@
     ],
     "type": "multiple_choice",
     "question": "What is the most abundant gas in Earth's atmosphere?",
-    "correctAnswerIndex": "0"
+    "correctAnswerIndex": 0
   }
 ]
