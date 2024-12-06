@@ -1,0 +1,71 @@
+[
+  {
+    "id": "question1",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "Paris"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "London"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "Berlin"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "What is the capital of France?",
+    "correctAnswerIndex": "0"
+  },
+  {
+    "id": "question2",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "4"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "6"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "8"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "How many legs does an insect have?",
+    "correctAnswerIndex": "1"
+  },
+  {
+    "id": "question3",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "Earth"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "Mars"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "Venus"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "Which planet is known as the Red Planet?",
+    "correctAnswerIndex": "1"
+  }
+]
