@@ -1,0 +1,71 @@
+[
+  {
+    "id": "question1",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "Leonardo da Vinci"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "Vincent van Gogh"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "Pablo Picasso"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "Who painted the Mona Lisa?",
+    "correctAnswerIndex": "0"
+  },
+  {
+    "id": "question2",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "7"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "9"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "12"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "How many wonders are there in the ancient world?",
+    "correctAnswerIndex": "0"
+  },
+  {
+    "id": "question3",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "Nitrogen"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "Oxygen"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "Carbon dioxide"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "correctAnswerIndex": "0"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "question1",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "William Shakespeare"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "Charles Dickens"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "Jane Austen"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "correctAnswerIndex": "0"
+  },
+  {
+    "id": "question2",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "The Great Wall of China"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "Machu Picchu"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "Colosseum"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "Which of these is located in Peru?",
+    "correctAnswerIndex": "1"
+  },
+  {
+    "id": "question3",
+    "answers": [
+      {
+        "id": "answer1",
+        "type": "text",
+        "content": "Albert Einstein"
+      },
+      {
+        "id": "answer2",
+        "type": "text",
+        "content": "Isaac Newton"
+      },
+      {
+        "id": "answer3",
+        "type": "text",
+        "content": "Nikola Tesla"
+      }
+    ],
+    "type": "multiple_choice",
+    "question": "Who developed the theory of relativity?",
+    "correctAnswerIndex": "0"
+  }
+]
